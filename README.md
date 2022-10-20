@@ -1,7 +1,7 @@
 # Heart-Failure-Prediction
 This project is an end to end machine learning project on the [heart failure prediction dataset](https://www.kaggle.com/datasets/fedesoriano/heart-failure-prediction) obtained from kaggle.
 
-This project contains a complete notebook showing steps from data description, exploratory data analysis to machine learning modelling. The project also contains a streamlit application that can be used for a more dynamic exploratory analysis. I have created dashboard with streamlit, and you can observe and make your own conclusions. 
+This project contains a complete notebook showing steps from data description, exploratory data analysis to machine learning modelling (achieved 90% accuracy). The project also contains a streamlit application that can be used for a more dynamic exploratory analysis. I have created dashboard with streamlit, and you can observe and make your own conclusions. 
 
 ### Usage
 1. Clone the project repository  
